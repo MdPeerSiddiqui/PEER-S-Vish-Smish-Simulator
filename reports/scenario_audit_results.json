@@ -1,0 +1,192 @@
+[
+    {
+        "index": 1,
+        "id": "it_support",
+        "title": "Urgent Global VPN Migration & MFA Re-Authentication",
+        "category": "Enterprise IT & Tech Support",
+        "intensity_score": 80,
+        "risk_tier": "High Psychological Pressure",
+        "sms_characters": 179,
+        "sms_segments": 2,
+        "fits_single_sms": false,
+        "triggers": {
+            "urgency": 92,
+            "authority": 88,
+            "fear_intimidation": 75,
+            "scarcity": 60,
+            "sympathy_helpfulness": 80
+        },
+        "defenses_count": 3
+    },
+    {
+        "index": 2,
+        "id": "banking_fraud",
+        "title": "Unauthorized High-Value Wire & Debit Card Lock",
+        "category": "Banking & Financial Services",
+        "intensity_score": 83,
+        "risk_tier": "High Psychological Pressure",
+        "sms_characters": 160,
+        "sms_segments": 1,
+        "fits_single_sms": true,
+        "triggers": {
+            "urgency": 95,
+            "authority": 85,
+            "fear_intimidation": 90,
+            "scarcity": 50,
+            "sympathy_helpfulness": 85
+        },
+        "defenses_count": 3
+    },
+    {
+        "index": 3,
+        "id": "gov_tax",
+        "title": "Federal Tax Deficit Audit & Legal Summons Notice",
+        "category": "Government & Tax Regulatory",
+        "intensity_score": 75,
+        "risk_tier": "High Psychological Pressure",
+        "sms_characters": 168,
+        "sms_segments": 2,
+        "fits_single_sms": false,
+        "triggers": {
+            "urgency": 90,
+            "authority": 98,
+            "fear_intimidation": 95,
+            "scarcity": 40,
+            "sympathy_helpfulness": 25
+        },
+        "defenses_count": 3
+    },
+    {
+        "index": 4,
+        "id": "parcel_delivery",
+        "title": "Undelivered High-Priority Express Parcel & Address Re-Routing",
+        "category": "Logistics & Courier Delivery",
+        "intensity_score": 69,
+        "risk_tier": "Moderate Psychological Coercion",
+        "sms_characters": 167,
+        "sms_segments": 2,
+        "fits_single_sms": false,
+        "triggers": {
+            "urgency": 85,
+            "authority": 65,
+            "fear_intimidation": 45,
+            "scarcity": 88,
+            "sympathy_helpfulness": 70
+        },
+        "defenses_count": 3
+    },
+    {
+        "index": 5,
+        "id": "hr_payroll",
+        "title": "Mandatory Direct Deposit Payroll Re-Verification",
+        "category": "Corporate HR & Payroll",
+        "intensity_score": 80,
+        "risk_tier": "High Psychological Pressure",
+        "sms_characters": 179,
+        "sms_segments": 2,
+        "fits_single_sms": false,
+        "triggers": {
+            "urgency": 90,
+            "authority": 85,
+            "fear_intimidation": 80,
+            "scarcity": 55,
+            "sympathy_helpfulness": 82
+        },
+        "defenses_count": 3
+    },
+    {
+        "index": 6,
+        "id": "healthcare_copay",
+        "title": "Emergency Prescription Medication Hold & Unpaid Copay",
+        "category": "Healthcare & Medical Insurance",
+        "intensity_score": 83,
+        "risk_tier": "High Psychological Pressure",
+        "sms_characters": 163,
+        "sms_segments": 2,
+        "fits_single_sms": false,
+        "triggers": {
+            "urgency": 88,
+            "authority": 80,
+            "fear_intimidation": 85,
+            "scarcity": 70,
+            "sympathy_helpfulness": 90
+        },
+        "defenses_count": 3
+    },
+    {
+        "index": 7,
+        "id": "executive_ceo",
+        "title": "Confidential Board-Level M&A Acquisition Settlement",
+        "category": "Executive Impersonation / Whaling",
+        "intensity_score": 84,
+        "risk_tier": "High Psychological Pressure",
+        "sms_characters": 175,
+        "sms_segments": 2,
+        "fits_single_sms": false,
+        "triggers": {
+            "urgency": 98,
+            "authority": 96,
+            "fear_intimidation": 90,
+            "scarcity": 65,
+            "sympathy_helpfulness": 60
+        },
+        "defenses_count": 3
+    },
+    {
+        "index": 8,
+        "id": "telecom_carrier",
+        "title": "Immediate SIM Card Swap & Cellular Line Deactivation",
+        "category": "Telecom & Mobile Carrier",
+        "intensity_score": 85,
+        "risk_tier": "Critical Manipulation",
+        "sms_characters": 186,
+        "sms_segments": 2,
+        "fits_single_sms": false,
+        "triggers": {
+            "urgency": 96,
+            "authority": 88,
+            "fear_intimidation": 94,
+            "scarcity": 50,
+            "sympathy_helpfulness": 84
+        },
+        "defenses_count": 3
+    },
+    {
+        "index": 9,
+        "id": "ecommerce_retail",
+        "title": "High-Value Unauthorized Order & Account Compromise",
+        "category": "E-Commerce & Online Retail",
+        "intensity_score": 79,
+        "risk_tier": "High Psychological Pressure",
+        "sms_characters": 177,
+        "sms_segments": 2,
+        "fits_single_sms": false,
+        "triggers": {
+            "urgency": 90,
+            "authority": 82,
+            "fear_intimidation": 85,
+            "scarcity": 40,
+            "sympathy_helpfulness": 88
+        },
+        "defenses_count": 3
+    },
+    {
+        "index": 10,
+        "id": "utility_services",
+        "title": "Immediate Electric & Power Disconnection Notice",
+        "category": "Utility & Public Services",
+        "intensity_score": 80,
+        "risk_tier": "High Psychological Pressure",
+        "sms_characters": 181,
+        "sms_segments": 2,
+        "fits_single_sms": false,
+        "triggers": {
+            "urgency": 95,
+            "authority": 88,
+            "fear_intimidation": 92,
+            "scarcity": 45,
+            "sympathy_helpfulness": 65
+        },
+        "defenses_count": 3
+    }
+]

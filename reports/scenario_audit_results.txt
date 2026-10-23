@@ -1,0 +1,63 @@
+PEER'S VISH & SMISH SIMULATOR — 10-CATEGORY BENCHMARK AUDIT
+================================================================================
+
+#1 | it_support — Urgent Global VPN Migration & MFA Re-Authentication
+Category: Enterprise IT & Tech Support
+Composite Score: 80/100 (High Psychological Pressure)
+SMS Payload: 179 chars (2 segment)
+Triggers: {'urgency': 92, 'authority': 88, 'fear_intimidation': 75, 'scarcity': 60, 'sympathy_helpfulness': 80}
+--------------------------------------------------------------------------------
+#2 | banking_fraud — Unauthorized High-Value Wire & Debit Card Lock
+Category: Banking & Financial Services
+Composite Score: 83/100 (High Psychological Pressure)
+SMS Payload: 160 chars (1 segment)
+Triggers: {'urgency': 95, 'authority': 85, 'fear_intimidation': 90, 'scarcity': 50, 'sympathy_helpfulness': 85}
+--------------------------------------------------------------------------------
+#3 | gov_tax — Federal Tax Deficit Audit & Legal Summons Notice
+Category: Government & Tax Regulatory
+Composite Score: 75/100 (High Psychological Pressure)
+SMS Payload: 168 chars (2 segment)
+Triggers: {'urgency': 90, 'authority': 98, 'fear_intimidation': 95, 'scarcity': 40, 'sympathy_helpfulness': 25}
+--------------------------------------------------------------------------------
+#4 | parcel_delivery — Undelivered High-Priority Express Parcel & Address Re-Routing
+Category: Logistics & Courier Delivery
+Composite Score: 69/100 (Moderate Psychological Coercion)
+SMS Payload: 167 chars (2 segment)
+Triggers: {'urgency': 85, 'authority': 65, 'fear_intimidation': 45, 'scarcity': 88, 'sympathy_helpfulness': 70}
+--------------------------------------------------------------------------------
+#5 | hr_payroll — Mandatory Direct Deposit Payroll Re-Verification
+Category: Corporate HR & Payroll
+Composite Score: 80/100 (High Psychological Pressure)
+SMS Payload: 179 chars (2 segment)
+Triggers: {'urgency': 90, 'authority': 85, 'fear_intimidation': 80, 'scarcity': 55, 'sympathy_helpfulness': 82}
+--------------------------------------------------------------------------------
+#6 | healthcare_copay — Emergency Prescription Medication Hold & Unpaid Copay
+Category: Healthcare & Medical Insurance
+Composite Score: 83/100 (High Psychological Pressure)
+SMS Payload: 163 chars (2 segment)
+Triggers: {'urgency': 88, 'authority': 80, 'fear_intimidation': 85, 'scarcity': 70, 'sympathy_helpfulness': 90}
+--------------------------------------------------------------------------------
+#7 | executive_ceo — Confidential Board-Level M&A Acquisition Settlement
+Category: Executive Impersonation / Whaling
+Composite Score: 84/100 (High Psychological Pressure)
+SMS Payload: 175 chars (2 segment)
+Triggers: {'urgency': 98, 'authority': 96, 'fear_intimidation': 90, 'scarcity': 65, 'sympathy_helpfulness': 60}
+--------------------------------------------------------------------------------
+#8 | telecom_carrier — Immediate SIM Card Swap & Cellular Line Deactivation
+Category: Telecom & Mobile Carrier
+Composite Score: 85/100 (Critical Manipulation)
+SMS Payload: 186 chars (2 segment)
+Triggers: {'urgency': 96, 'authority': 88, 'fear_intimidation': 94, 'scarcity': 50, 'sympathy_helpfulness': 84}
+--------------------------------------------------------------------------------
+#9 | ecommerce_retail — High-Value Unauthorized Order & Account Compromise
+Category: E-Commerce & Online Retail
+Composite Score: 79/100 (High Psychological Pressure)
+SMS Payload: 177 chars (2 segment)
+Triggers: {'urgency': 90, 'authority': 82, 'fear_intimidation': 85, 'scarcity': 40, 'sympathy_helpfulness': 88}
+--------------------------------------------------------------------------------
+#10 | utility_services — Immediate Electric & Power Disconnection Notice
+Category: Utility & Public Services
+Composite Score: 80/100 (High Psychological Pressure)
+SMS Payload: 181 chars (2 segment)
+Triggers: {'urgency': 95, 'authority': 88, 'fear_intimidation': 92, 'scarcity': 45, 'sympathy_helpfulness': 65}
+--------------------------------------------------------------------------------

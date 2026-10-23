@@ -1,0 +1,6 @@
+# PEER'S VISH & SMISH SIMULATOR — DEPENDENCIES
+# Sqrock IT Solution | Alpha 2 Cybersecurity Internship (Day 04)
+# Author: Md Peer Siddiqui
+
+colorama>=0.4.6
+reportlab>=4.0.0
